@@ -17,3 +17,7 @@ crate-type = ["cdylib"]
 cc = "1.0"
 
 [dependencies]
+android_logger = "0.9.2"
+log = "0.4.14"
+dlopen = "0.1.8"
+dlopen_derive = "0.1.4"

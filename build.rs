@@ -1,4 +1,3 @@
-
 fn main() {
     cc::Build::new()
         .file("And64InlineHook/And64InlineHook.cpp")
